@@ -12,7 +12,7 @@ This packages handles for you:
 * quotes, apostrophes, ellipses, and spaces as well as dashes
 * plus arrows, copyright, trademark, math and currency symbols
 
-Can be used as [textr][https://github.com/shuvalov-anton/textr] plugin too.
+Can be used as [textr](https://github.com/shuvalov-anton/textr) plugin too.
 
 ## Install
 
