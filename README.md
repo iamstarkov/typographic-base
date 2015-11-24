@@ -28,7 +28,7 @@ typographicBase(`Hello -> "world"`, { locale: 'en-us' }); // Hello → “world�
 
 ## API
 
-### typographyBase(input, options)
+### typographicBase(input, options)
 
 #### input
 
