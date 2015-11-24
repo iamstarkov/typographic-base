@@ -1,5 +1,5 @@
 import { equal } from 'assert';
-import typographyBase from './index';
+import typographicBase from './index';
 
 it('should typographyBase', () =>
-  equal(typographyBase(`Hello -> "world"`, { locale: 'en-us' }), `Hello → “world”`));
+  equal(typographicBase(`Hello -> "world"`, { locale: 'en-us' }), `Hello → “world”`));

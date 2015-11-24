@@ -1,5 +1,5 @@
 {
-  "name": "typography-base",
+  "name": "typographic-base",
   "version": "0.0.0",
   "description": "typography set for fixing common issues",
   "main": "index.es5.js",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamstarkov/typography-base.git"
+    "url": "git+https://github.com/iamstarkov/typographic-base.git"
   },
   "keywords": [
     "typo",
@@ -27,9 +27,9 @@
   "author": "Vladimir Starkov <iamstarkov@gmail.com> (https://iamstarkov.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iamstarkov/typography-base/issues"
+    "url": "https://github.com/iamstarkov/typographic-base/issues"
   },
-  "homepage": "https://github.com/iamstarkov/typography-base#readme",
+  "homepage": "https://github.com/iamstarkov/typographic-base#readme",
   "devDependencies": {
     "assert": "*",
     "babel-cli": "^6.2.0",
