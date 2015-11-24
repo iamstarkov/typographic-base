@@ -7,6 +7,13 @@
 
 > typography set for fixing common issues
 
+This packages handles for you:
+
+* quotes, apostrophes, ellipses, and spaces as well as dashes
+* plus arrows, copyright, trademark, math and currency symbols
+
+Can be used as [textr][https://github.com/shuvalov-anton/textr] plugin too.
+
 ## Install
 
     npm install --save typography-base
@@ -16,28 +23,26 @@
 ```js
 import typographyBase from 'typography-base';
 
-typographyBase('unicorns'); // unicorns
+typographyBase(`Hello -> "world"`, { locale: 'en-us' }); // Hello → “world”
 ```
 
 ## API
 
-### typographyBase(input, [options])
+### typographyBase(input, options)
 
 #### input
 
 *Required*  
 Type: `String`
 
-Lorem ipsum.
+Your text.
 
 #### options
 
-##### foo
+Type: `Object`  
+Default: `{}`
 
-Type: `Boolean`  
-Default: `false`
-
-Lorem ipsum.
+Mainly because of `options.locale` importance. You know better which locale you text belongs to.
 
 ## License
 

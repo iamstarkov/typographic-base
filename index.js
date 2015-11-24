@@ -1,6 +1,6 @@
 import textr from 'textr';
-import apostrophes from 'typographic-apostrophes';
 import quotes from 'typographic-quotes';
+import apostrophes from 'typographic-apostrophes';
 import apostrophesForPlurals from 'typographic-apostrophes-for-possessive-plurals';
 import arrows from 'typographic-arrows';
 import copyright from 'typographic-copyright';
