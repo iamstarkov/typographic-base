@@ -61,7 +61,7 @@ This packages handles for you:
 | [`typographic-en-dashes`][en] | Safely replacing hyphens in a range of values with en dashes only. | `(1967-1994)` → `(1967–1994)` |
 | [`typographic-math-symbols`][math] | Replaces alphabetic math symbols to real symbols. | `3 =< 2` → `3 ≤ 2` |
 | [`typographic-registered-trademark`][registered] | Replaces alphabetic registered trademark to real symbol. | `(R)` → `®` |
-| [`typographic-single-spaces`][spaces] | Replace many spaces to one space. | `one   two` → `one two` |
+| [`typographic-single-spaces`][spaces] | Replace many spaces to one space. | `one    two` → `one two` |
 | [`typographic-trademark`][trademark] | Replaces alphabetic trademark to real symbol. | `(TM)` → `™` |
 
 ## License
