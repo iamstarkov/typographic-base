@@ -44,9 +44,7 @@ Default: `{}`
 
 Mainly because of `options.locale` importance. You know better which locale you text belongs to.
 
-## Batteries included
-
-This packages handles for you:
+## Batteries
 
 | Package           | Description                     | Example              |
 | :---------------- | :------------------------------ | :------------------- |
