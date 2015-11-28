@@ -1,6 +1,6 @@
 {
   "name": "typographic-base",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "typography set for fixing common issues",
   "main": "index.es5.js",
   "scripts": {
