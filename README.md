@@ -49,7 +49,7 @@ Mainly because of `options.locale` importance. You know better which locale you 
 | Package           | Description                     | Example              |
 | :---------------- | :------------------------------ | :------------------- |
 | [`typographic-apostrophes`][apostrophes] | Apostrophes in contractions and for possessive case. | `rock'n'roll` → `rock’n’roll` |
-| [`typographic-quotes`][quotes] |  Quotes for your text with respect to locale. | `"qoutes"` → `“qoutes”` |
+| [`typographic-quotes`][quotes] |  Quotes for your text with respect to locale. | `"quotes"` → `“quotes”` |
 | [`typographic-apostrophes-for-possessive-plurals`][plurals] | Apostrophes for possessive plurals. | `sisters'` → `sisters’` |
 | [`typographic-arrows`][arrows] | Use real arrows. | `a <- b` → `a ← b` |
 | [`typographic-copyright`][copyright] | Use real copyright symbol. | `(C)` → `©` |
