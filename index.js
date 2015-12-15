@@ -1,6 +1,6 @@
 import textr from 'textr';
-import quotes from 'typographic-quotes';
 import apostrophes from 'typographic-apostrophes';
+import quotes from 'typographic-quotes';
 import apostrophesForPlurals from 'typographic-apostrophes-for-possessive-plurals';
 import arrows from 'typographic-arrows';
 import copyright from 'typographic-copyright';
@@ -15,8 +15,8 @@ import trademark from 'typographic-trademark';
 
 const base = textr()
   .use(
-    quotes,
     apostrophes,
+    quotes,
     apostrophesForPlurals,
     arrows,
     copyright,
